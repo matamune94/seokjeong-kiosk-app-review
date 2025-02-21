@@ -1,0 +1,1 @@
+# seokjeong-kiosk-app-review
